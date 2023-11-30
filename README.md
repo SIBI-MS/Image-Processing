@@ -1,5 +1,5 @@
-Proggrammes In Image Processing
-1 : Simulation and Display of an Image, Negative of an Image(Binary and Gray Scale).
+Proggrammes In Image Processing</n>
+1 : Simulation and Display of an Image, Negative of an Image(Binary and Gray Scale).</n>
 2 : Implementation of relationships between pixels.
 3 : Implementation of Transformation of an Image.
 4 : Contrast streching of a low contrast image. Histogram and Histogram Equalization.
