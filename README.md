@@ -1,10 +1,17 @@
-###📸 Image Processing Repository
+### 📸 Image Processing Repository
+
 Explore various image processing lab programs and class program codes in this repository. Additionally, find a class program code shared by a professor from another college.
 
-🚀 Getting Started
-Clone the repository: git clone https://github.com/your-username/your-repository.git
-Browse through the lab programs and class program codes.
-<br> 
+## 🚀 Getting Started
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+2. Browse through the lab programs and class program codes.
+
+## 🤝 Contribution
+Contributions are welcome! Feel free to submit pull requests with improvements, bug fixes, or additional image processing programs.
+
+---
+
+Feel free to adjust this description to better fit your repository's content and purpose!
 1 : Simulation and Display of an Image, Negative of an Image(Binary and Gray Scale).<br> 
 2 : Implementation of relationships between pixels.<br> 
 3 : Implementation of Transformation of an Image.<br> 
