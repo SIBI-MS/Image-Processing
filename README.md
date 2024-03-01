@@ -1,4 +1,4 @@
-📸 Image Processing Repository
+###📸 Image Processing Repository
 Explore various image processing lab programs and class program codes in this repository. Additionally, find a class program code shared by a professor from another college.
 
 🚀 Getting Started
