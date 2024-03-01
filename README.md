@@ -6,7 +6,7 @@ Explore various image processing lab programs and class program codes in this re
 1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
 2. Browse through the lab programs and class program codes.
 
-----
+
 1 : Simulation and Display of an Image, Negative of an Image(Binary and Gray Scale).<br> 
 2 : Implementation of relationships between pixels.<br> 
 3 : Implementation of Transformation of an Image.<br> 
@@ -18,6 +18,7 @@ Explore various image processing lab programs and class program codes in this re
 9 : Implementation of image sharpening filters and Edge Detection using gradient filters.<br> 
 10 : Implementaion of image intensity slicing techniques for image enhancement.<br> 
 11 : Canny edge detection Algorithm.<br> 
-----
+
+
 🤝 Contribution
 Contributions are welcome! Feel free to submit pull requests with improvements, bug fixes, or additional image processing programs.
